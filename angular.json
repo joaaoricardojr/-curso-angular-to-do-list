@@ -100,6 +100,13 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref:/
+            -curso-angular-to-do-list/"
+          }
         }
       }
     }
